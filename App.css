@@ -1,0 +1,22 @@
+:root {
+  /* Farben – später 1:1 aus Figma übernehmen */
+  --bg: #0f1115;
+  --surface: #14161c;
+  --surface-2: #1a1d25;
+  --line: rgba(255,255,255,.08);
+  --text: rgba(255,255,255,.92);
+  --muted: rgba(255,255,255,.65);
+  --primary: #885dff;
+  --primary-weak: rgba(136,93,255,.14);
+  --accent: #4cc9f0;
+
+  /* Radius / Shadow / Spacing */
+  --radius: 12px;
+  --shadow: 0 24px 60px rgba(0,0,0,.5);
+  --gap-1: 8px;
+  --gap-2: 12px;
+  --gap-3: 16px;
+  --gap-4: 24px;
+  --gap-5: 32px;
+  --maxw: 1280px; /* max Breite content */
+}
